@@ -1,7 +1,7 @@
 <%-- 
     Document   : userprofile
     Created on : Sep 29, 2016, 1:32:41 AM
-    Author     : Oops
+    Author     : solehin
 --%>
 
 <%@page import="java.sql.ResultSet"%>
