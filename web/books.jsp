@@ -1,7 +1,7 @@
 <%-- 
     Document   : books
     Created on : Sep 29, 2016, 4:14:52 PM
-    Author     : Oops
+    Author     : solehin
 --%>
 
 <%@page import="java.sql.ResultSet"%>
@@ -16,7 +16,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link href="css/home.css" type="text/css" rel="stylesheet"/>
-        <title>JSP Page</title>
+        <title>boooks ke boobs?</title>
         <%@ include file="header.jsp"%>
     </head>
     <body>
